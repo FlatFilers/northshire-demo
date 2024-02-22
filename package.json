@@ -1,7 +1,7 @@
 {
   "name": "northshirebooks-app",
   "dependencies": {
-    "@flatfile/api": "1.5.24",
+    "@flatfile/api": "1.7.5",
     "@flatfile/listener": "^1.0.1",
     "@flatfile/plugin-automap": "^0.2.1",
     "@flatfile/plugin-export-workbook": "^0.1.2",
