@@ -6,6 +6,7 @@
     "@flatfile/plugin-automap": "^0.2.1",
     "@flatfile/plugin-export-workbook": "^0.1.2",
     "@flatfile/plugin-record-hook": "1.1.1",
+    "@flatfile/plugin-space-configure": "^0.3.2",
     "@flatfile/plugin-xlsx-extractor": "^1.11.1",
     "@flatfile/plugin-zip-extractor": "^0.4.1"
   }
